@@ -1,0 +1,23 @@
+name: SerenityHealingArts
+favicon: null
+layout_spectrum: 0.11437288485467434
+typography_spectrum: 0.8608072940260172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6416386505588889
+  lightness: 0.23746965429745615
+  saturation: 0.3992593861185014
+  rhythmicContrast: 0.5452488570008427
+purpose: []
